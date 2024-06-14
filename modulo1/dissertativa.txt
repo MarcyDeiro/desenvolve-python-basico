@@ -1,0 +1,16 @@
+﻿SOLUÇÃO DISSERTATIVA
+
+
+#Entrada
+1. Ler o número n
+2. Armazenar o número n
+#Processamento
+3. Subtrair n - 1 
+4. Armazenar como digito1
+5. Subtrair 10 - n 
+6. Armazenar como digito2
+7. Realize a expressão digito1 * 10 + digito2
+8. Armazene como r
+#Saída
+9. Apresente r
+10. Encerre o programa
